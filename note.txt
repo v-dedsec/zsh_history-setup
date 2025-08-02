@@ -1,0 +1,3 @@
+all other thing you need 
+oh-my-zsh
+Zinit
